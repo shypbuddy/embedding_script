@@ -1,0 +1,13 @@
+{
+  "category": "Buddyshield",
+  "company": "ShypBUDDY",
+  "feature": "Call Recordings",
+  "question": "Where will I find Buddyshield Call recordings on the panel?",
+  "steps": [
+    "From the Dashboard, click on the 'Buddyshield' tab.",
+    "Within this section, locate the tabs labeled 'RTO Instructed' and 'RTO Requested'.",
+    "Click on these tabs to view the associated Buddyshield call recordings."
+  ],
+  "outcome": "You will be able to access and listen to the call recordings for the selected categories.",
+  "note": "Ensure you have proper permissions to access call recording data."
+}

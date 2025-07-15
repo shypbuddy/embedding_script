@@ -1,0 +1,24 @@
+{
+  "category": "NDR Management",
+  "company": "ShypBUDDY",
+  "use_case": "Accessing and Managing NDR (Non-Delivery Report)",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Navigate to Manage NDR",
+      "description": "From the ShypBUDDY dashboard, click on the 'Manage NDR' tab."
+    },
+    {
+      "step": 2,
+      "action": "View Failed Deliveries",
+      "description": "In the Manage NDR section, view all failed delivery AWBs along with the respective failure reasons."
+    },
+    {
+      "step": 3,
+      "action": "Take Corrective Action",
+      "description": "Select the appropriate action for each failed delivery: reattempt delivery, update address, provide alternate contact number, or initiate RTO (Return to Origin) instructions."
+    }
+  ],
+  "outcome": "You can efficiently manage failed deliveries by taking timely actions to increase successful delivery rates.",
+  "note": "Timely updates help reduce RTOs and improve delivery success."
+}

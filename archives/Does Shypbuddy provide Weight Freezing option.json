@@ -1,0 +1,12 @@
+{
+  "category": "Shipping Policy",
+  "company": "ShypBUDDY",
+  "feature": "Weight Freezing",
+  "question": "Does ShypBUDDY provide Weight Freezing option?",
+  "answer": "ShypBUDDY does not currently provide a weight freezing facility.",
+  "details": {
+    "weightFreezingAvailable": false,
+    "note": "Weight is calculated based on actual or volumetric weight (whichever is higher) at the time of shipment scan by the courier partner."
+  },
+  "recommendation": "Ensure correct and accurate weight/dimensions are declared to avoid discrepancies or penalties."
+}

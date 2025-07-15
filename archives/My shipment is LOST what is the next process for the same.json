@@ -1,0 +1,14 @@
+{
+  "category": "Claims & Refunds",
+  "company": "ShypBUDDY",
+  "issue": "Lost Shipment",
+  "question": "My shipment is LOST, what is the next process for the same?",
+  "answer": "Once the shipment is marked as lost, the invoice amount or the liability amount (whichever is lower, up to ₹2000) will be refunded to your respective bank account within 2 weeks from the date it was declared LOST.",
+  "details": {
+    "maxLiabilityAmount": 2000,
+    "refundTimeline": "Within 2 weeks of the LOST date",
+    "refundMethod": "Bank Transfer",
+    "eligibility": "Only shipments officially marked as LOST are eligible for compensation."
+  },
+  "recommendation": "Ensure your bank details are up to date in the ShypBUDDY panel for timely processing."
+}

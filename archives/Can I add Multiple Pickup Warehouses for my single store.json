@@ -1,0 +1,16 @@
+{
+  "category": "Pickup Address Management",
+  "company": "ShypBUDDY",
+  "feature": "Multiple Pickup Addresses",
+  "question": "Can I add Multiple Pickup/Warehouses for my single store?",
+  "answer": "Yes, you can add multiple pickup addresses on the ShypBUDDY panel.",
+  "steps": [
+    "Go to the Dashboard.",
+    "Click on the 'Pickup Address' section.",
+    "Use the 'Add Address' button to add each warehouse or pickup point.",
+    "Enter details like Tag Name (Warehouse Name), Contact Number, and Full Address.",
+    "Mark one of the addresses as 'Default' to set it as the primary warehouse for shipping."
+  ],
+  "outcome": "You can manage multiple warehouse locations and select your default pickup address for shipments.",
+  "note": "You can switch the default warehouse anytime based on your operational needs."
+}

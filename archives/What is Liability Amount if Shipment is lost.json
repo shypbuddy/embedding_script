@@ -1,0 +1,12 @@
+{
+  "category": "Support",
+  "company": "ShypBUDDY",
+  "feature": "Liability Policy",
+  "question": "What is the Liability Amount if Shipment is lost?",
+  "answer": "ShypBUDDY provides a fixed compensation amount for lost shipments.",
+  "details": {
+    "liabilityAmount": "₹2000",
+    "condition": "Applicable only when a shipment is officially marked as lost by the courier partner."
+  },
+  "note": "The liability amount is capped and subject to ShypBUDDY's terms and verification process."
+}

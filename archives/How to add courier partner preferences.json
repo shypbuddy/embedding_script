@@ -1,0 +1,13 @@
+{
+  "category": "Settings",
+  "company": "ShypBUDDY",
+  "feature": "Courier Partner Preferences",
+  "question": "How to add courier partner preferences?",
+  "steps": [
+    "From the Dashboard, click on the 'Settings' tab.",
+    "Under Settings, locate and click on the '3PL Preference Page' option.",
+    "Here, you can choose and set your preferred courier partners based on your shipping requirements."
+  ],
+  "outcome": "Once set, your preferences will be used to prioritize courier partner selection during order creation.",
+  "note": "You can update your preferences anytime based on service performance, coverage, or cost."
+}

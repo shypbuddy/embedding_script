@@ -1,0 +1,15 @@
+{
+  "category": "Order Tracking",
+  "company": "ShypBUDDY",
+  "feature": "Shipment Tracking",
+  "question": "How to track the shipment on the ShypBUDDY Panel?",
+  "steps": [
+    "From the Dashboard, click on the 'Track Order' option.",
+    "Enter the Tracking ID of the shipment you want to track.",
+    "The tracking details of the shipment will be displayed accordingly.",
+    "Alternatively, navigate to the 'Forward Orders' section.",
+    "Click directly on the AWB numbers listed under various tabs to view tracking information."
+  ],
+  "outcome": "You will be able to see the real-time status and history of your shipment.",
+  "note": "Ensure the Tracking ID or AWB number is correct to retrieve accurate tracking data."
+}

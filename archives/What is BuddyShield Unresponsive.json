@@ -1,0 +1,13 @@
+{
+  "category": "Value Added Services",
+  "company": "ShypBUDDY",
+  "service": "BuddyShield",
+  "feature": "BuddyShield Unresponsive",
+  "definition": "BuddyShield Unresponsive refers to shipments where the customer has not responded despite three follow-up calls made by the BuddyShield team.",
+  "criteria": [
+    "Customer is marked unresponsive after 3 unsuccessful call attempts by the BuddyShield team.",
+    "These orders are flagged for further follow-up or action."
+  ],
+  "outcome": "Provides clear visibility into shipments with unreachable customers, enabling sellers to decide on next steps like rescheduling or initiating RTO.",
+  "note": "This helps reduce delivery failures and improve customer communication."
+}

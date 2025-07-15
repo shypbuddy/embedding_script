@@ -1,0 +1,24 @@
+{
+  "category": "Finance",
+  "company": "ShypBUDDY",
+  "use_case": "Understanding Early COD Payment Schedule",
+  "term": {
+    "name": "Early COD Payment Cycle",
+    "description": "A frequent payout option for sellers where COD payments are processed multiple times a week."
+  },
+  "schedule": {
+    "payout_days": ["Monday", "Wednesday", "Friday"],
+    "payout_frequency": "Thrice a week",
+    "payout_description": "COD payments are credited to the seller's account on Monday, Wednesday, and Friday for eligible shipments."
+  },
+  "applicability": [
+    "Delivered shipments",
+    "RTO (Return To Origin) delivered shipments"
+  ],
+  "benefits": [
+    "Faster access to funds",
+    "Improved cash flow for businesses",
+    "Suitable for high volume sellers"
+  ],
+  "note": "Eligibility for Early COD may depend on seller's performance and may be subject to additional terms by ShypBUDDY."
+}

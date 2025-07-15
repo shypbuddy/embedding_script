@@ -1,0 +1,23 @@
+{
+  "category": "Finance",
+  "company": "ShypBUDDY",
+  "use_case": "Understanding Weekly COD Payment Schedule",
+  "term": {
+    "name": "Weekly Payment Cycle",
+    "description": "A scheduled COD payment cycle where payouts for delivered and RTO delivered shipments are processed weekly."
+  },
+  "schedule": {
+    "payout_day": "Friday",
+    "shipment_period": "Monday to Sunday",
+    "payout_description": "All shipments delivered or RTO delivered between Monday and Sunday will be settled on the immediate Friday following that week."
+  },
+  "applicability": [
+    "Delivered shipments",
+    "RTO (Return To Origin) delivered shipments"
+  ],
+  "benefits": [
+    "Consistent weekly cash flow",
+    "Clear and predictable payout timeline"
+  ],
+  "note": "Ensure bank details are updated and verified to avoid any payout delays."
+}

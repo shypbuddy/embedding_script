@@ -1,0 +1,13 @@
+{
+  "category": "Rate Management",
+  "company": "ShypBUDDY",
+  "feature": "View Courier Partner Rates",
+  "question": "Where will I see my courier partner rates on the panel?",
+  "steps": [
+    "From the Dashboard, navigate to the 'Settings' tab.",
+    "Scroll down to locate the 'Click to View Rates' icon.",
+    "Click on this icon to open and view your shipping rates."
+  ],
+  "outcome": "You will see the shipping rates provided by the respective courier partners.",
+  "note": "Ensure you have the necessary access rights to view this section."
+}

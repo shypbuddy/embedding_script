@@ -1,0 +1,14 @@
+{
+  "category": "Label Settings",
+  "company": "ShypBUDDY",
+  "feature": "Hide RTO Address on Label",
+  "question": "How to hide Pickup/RTO address in the label?",
+  "steps": [
+    "From the Dashboard, navigate to the 'Settings' section.",
+    "Scroll down to locate the 'Label Settings' tab.",
+    "Within Label Settings, locate the option labeled 'Show RTO'.",
+    "Disable the 'Show RTO' toggle or icon."
+  ],
+  "outcome": "The Pickup/RTO address will no longer appear on the shipping label.",
+  "note": "You can enable this setting again anytime if you wish to show the RTO address on labels."
+}

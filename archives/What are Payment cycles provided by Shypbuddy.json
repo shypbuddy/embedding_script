@@ -1,0 +1,25 @@
+{
+  "category": "Finance",
+  "company": "ShypBUDDY",
+  "use_case": "Understanding COD payment cycle options",
+  "term": {
+    "name": "Payment Cycles",
+    "description": "ShypBUDDY offers two types of COD (Cash on Delivery) payment cycles to suit business needs."
+  },
+  "payment_cycles": [
+    {
+      "type": "Weekly COD Cycle",
+      "description": "COD remittance is processed and transferred to the seller’s registered bank account on a weekly basis."
+    },
+    {
+      "type": "Early COD Cycle",
+      "description": "COD remittance is processed and settled earlier than the standard weekly cycle, allowing quicker access to funds. This may be subject to eligibility or fees."
+    }
+  ],
+  "benefits": [
+    "Improved cash flow management",
+    "Flexible remittance options based on business requirements",
+    "Faster access to collected COD payments"
+  ],
+  "note": "Sellers can choose their preferred COD payment cycle during onboarding or by contacting ShypBUDDY support."
+}

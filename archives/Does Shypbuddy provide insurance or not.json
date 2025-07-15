@@ -1,0 +1,14 @@
+{
+  "category": "Support",
+  "company": "ShypBUDDY",
+  "feature": "Insurance",
+  "question": "Does ShypBUDDY provide insurance or not?",
+  "answer": "ShypBUDDY currently does not offer any insurance facilities for shipments.",
+  "details": {
+    "insuranceAvailable": false,
+    "note": "Sellers are advised to take additional precautions or external insurance if required for high-value shipments."
+  },
+  "alternativeOptions": {
+    "buddyShield": "Optional value-added service for limited protection and proactive delivery support."
+  }
+}

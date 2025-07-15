@@ -1,0 +1,27 @@
+{
+  "category": "Shipping",
+  "company": "ShypBUDDY",
+  "use_case": "Understanding weight discrepancy in shipments",
+  "term": {
+    "name": "Weight Discrepancy",
+    "description": "Weight discrepancy refers to the difference between the declared (entered) weight of a shipment and its actual measured weight recorded by the courier partner."
+  },
+  "types_of_weight": {
+    "dead_weight": {
+      "description": "The actual physical weight of the package measured in kilograms (kg)."
+    },
+    "volumetric_weight": {
+      "description": "The calculated weight of a package based on its dimensions, using the formula: (Length × Breadth × Height) ÷ 5000."
+    }
+  },
+  "notes": [
+    "Courier partners charge based on whichever is higher: dead weight or volumetric weight.",
+    "If there is a mismatch between declared and actual weight, a weight discrepancy charge may be applied.",
+    "Always enter accurate package dimensions and weight during order creation to avoid penalties."
+  ],
+  "example": {
+    "declared_weight": "2 kg",
+    "actual_measured_weight": "3.5 kg",
+    "discrepancy": "1.5 kg (under-declared)"
+  }
+}

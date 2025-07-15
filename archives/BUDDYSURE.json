@@ -1,0 +1,25 @@
+{
+  "category": "Value Added Services",
+  "serviceName": "BUDDYSURE",
+  "company": "ShypBUDDY",
+  "title": "BUDDYSURE: Ensure Every Delivery, Right to the Doorstep!",
+  "question": "What is BUDDYSURE?",
+  "answer": "BUDDYSURE is an advanced delivery assurance service by ShypBUDDY that boosts delivery success rates through proactive customer communication and real-time resolution of delivery issues.",
+  "howItWorks": {
+    "outForDeliveryCalls": "When an order is out for delivery, the ShypBUDDY team contacts the customer to confirm their availability, verify the address, and make minor adjustments if necessary (subject to logistics partner T&Cs).",
+    "failedDeliveryRecovery": "If a delivery fails, our team immediately reaches out to the customer to understand the issue, gather updated instructions, and help reschedule the delivery.",
+    "transparency": "All customer calls are recorded and made available to the seller for full visibility.",
+    "goal": "Our ultimate aim is to ensure 100% delivery success for your shipments."
+  },
+  "benefits": [
+    "Massively Boost Delivery Rates: Prevent delivery failures through proactive communication.",
+    "Superior Customer Experience: Keep your customers informed and improve satisfaction.",
+    "Reduce RTOs & Losses: Decrease return shipments and associated costs.",
+    "Save Your Time: ShypBUDDY handles follow-ups and delivery issue resolution on your behalf."
+  ],
+  "charges": {
+    "amount": "₹3.99",
+    "applicableOn": "Per shipment",
+    "note": "Applied only when your shipment is scheduled for pickup."
+  }
+}

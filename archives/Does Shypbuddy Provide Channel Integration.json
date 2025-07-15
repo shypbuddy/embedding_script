@@ -1,0 +1,36 @@
+{
+  "category": "Integrations",
+  "company": "ShypBUDDY",
+  "use_case": "E-commerce platform integration",
+  "question": "Does ShypBUDDY Provide Channel Integration?",
+  "answer": "Yes, ShypBUDDY provides seamless channel integration with leading e-commerce platforms to streamline order processing and fulfillment.",
+  "supported_channels": [
+    {
+      "name": "Shopify",
+      "type": "E-commerce platform",
+      "features": ["Auto-fetch orders", "Update tracking", "Inventory sync"]
+    },
+    {
+      "name": "WooCommerce",
+      "type": "E-commerce plugin for WordPress",
+      "features": ["Real-time order sync", "Shipping label generation"]
+    },
+    {
+      "name": "EasyEcom",
+      "type": "Multi-channel inventory management",
+      "features": ["Order sync", "Inventory reconciliation", "Shipping integration"]
+    },
+    {
+      "name": "UniCommerce",
+      "type": "Omnichannel retail operations platform",
+      "features": ["Unified order management", "Courier allocation", "Return handling"]
+    }
+  ],
+  "benefits": [
+    "Automated order fetching",
+    "Reduced manual effort",
+    "Real-time tracking updates",
+    "Faster shipping workflows"
+  ],
+  "note": "Integration setup may require API credentials and platform authorization from the respective channel."
+}

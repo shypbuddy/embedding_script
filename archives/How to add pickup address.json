@@ -1,0 +1,29 @@
+{
+  "category": "Address Management",
+  "company": "ShypBUDDY",
+  "use_case": "Adding a Pickup Address",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Access Pickup Address Section",
+      "description": "Log in to the ShypBUDDY dashboard and click on the 'Pickup Address' option."
+    },
+    {
+      "step": 2,
+      "action": "Add New Address",
+      "description": "Click on 'Add Address' to begin entering a new pickup address."
+    },
+    {
+      "step": 3,
+      "action": "Enter Address Details",
+      "description": "Input the required information including Tag Name (e.g., Warehouse Name), Contact Number, and the complete address."
+    },
+    {
+      "step": 4,
+      "action": "Save the Address",
+      "description": "Click on 'Save' to add the pickup address to your account."
+    }
+  ],
+  "outcome": "The pickup address will be added successfully to your ShypBUDDY account.",
+  "note": "Ensure all details are accurate to avoid future delivery issues."
+}

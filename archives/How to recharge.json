@@ -1,0 +1,42 @@
+{
+  "category": "Wallet Recharge",
+  "company": "ShypBUDDY",
+  "use_case": "Adding funds to the wallet",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Navigate to Dashboard",
+      "description": "Log in to the ShypBUDDY Dashboard."
+    },
+    {
+      "step": 2,
+      "action": "Click on 'Recharge'",
+      "description": "From the dashboard, click on the 'Recharge' option."
+    },
+    {
+      "step": 3,
+      "action": "Enter Amount",
+      "description": "Input the desired amount you want to add to your wallet."
+    },
+    {
+      "step": 4,
+      "action": "Click on 'Proceed'",
+      "description": "Click the 'Proceed' button to continue to the payment stage."
+    },
+    {
+      "step": 5,
+      "action": "Select Payment Mode",
+      "description": "Choose a preferable payment mode such as UPI, Net Banking, Credit/Debit Card, etc."
+    },
+    {
+      "step": 6,
+      "action": "Complete Transaction",
+      "description": "Complete the payment process using the selected payment mode."
+    },
+    {
+      "step": 7,
+      "action": "Wallet Updated",
+      "description": "After a successful transaction, the amount will be credited to your wallet."
+    }
+  ]
+}

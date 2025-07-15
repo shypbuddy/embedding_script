@@ -1,0 +1,25 @@
+{
+  "category": "Value Added Services",
+  "serviceName": "CUSTOMISED TRACKING PAGE",
+  "company": "ShypBUDDY",
+  "title": "CUSTOMISED TRACKING PAGE: Your Brand, Your Control, Every Step of the Way!",
+  "question": "What is CUSTOMISED TRACKING PAGE?",
+  "answer": "CUSTOMISED TRACKING PAGE is a premium service by ShypBUDDY that allows sellers to fully brand and personalize the shipment tracking page shown to their customers, while also collecting valuable feedback on the delivery experience.",
+  "howItWorks": {
+    "brandingControl": "Add your logo, custom domain or subdomain, support contact details (phone and email) to make the tracking page truly your own.",
+    "connectAndEngage": "Integrate your social media links and privacy policy so customers stay connected to your brand.",
+    "customerInsights": "Enable real-time customer feedback collection through Net Promoter Score (NPS) and Customer Satisfaction (NSAT) surveys.",
+    "feedbackReports": "Access summarized reports of customer satisfaction to make informed decisions and improve delivery experiences."
+  },
+  "benefits": [
+    "Elevated Brand Experience: Make the entire delivery journey feel like a part of your brand.",
+    "Increased Customer Trust & Loyalty: Build trust through transparency and accessible support.",
+    "Direct Customer Feedback: Gather actionable insights through in-page surveys.",
+    "Drive Traffic & Engagement: Promote your brand’s social platforms and retain customer attention."
+  ],
+  "charges": {
+    "amount": "₹1.99",
+    "applicableOn": "Per shipment",
+    "note": "Applied only when your shipment is scheduled for pickup."
+  }
+}

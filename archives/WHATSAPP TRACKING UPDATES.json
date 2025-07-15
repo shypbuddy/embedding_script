@@ -1,0 +1,23 @@
+{
+  "category": "Value Added Services",
+  "serviceName": "WHATSAPP TRACKING UPDATES",
+  "company": "ShypBUDDY",
+  "title": "WHATSAPP TRACKING UPDATES: Engage Customers Where They Are!",
+  "question": "What is WHATSAPP TRACKING UPDATES?",
+  "answer": "WHATSAPP TRACKING UPDATES is a premium ShypBUDDY service that delivers real-time tracking notifications directly to buyers via WhatsApp, instead of traditional SMS, ensuring faster and more engaging communication.",
+  "howItWorks": {
+    "notificationChannel": "All shipment tracking notifications are sent to your customers through their WhatsApp number.",
+    "engagementMethod": "Uses WhatsApp to ensure instant delivery and better visibility of order status updates."
+  },
+  "benefits": [
+    "Boost Trust & Convenience: Communicate on a channel customers use and trust daily.",
+    "Higher Engagement: WhatsApp messages have significantly higher open and read rates than SMS.",
+    "Increased Customer Satisfaction: Offers a smoother, more familiar tracking experience.",
+    "Enhanced Brand Perception: Show your customers that your brand is up-to-date and customer-centric."
+  ],
+  "charges": {
+    "amount": "₹1.99",
+    "applicableOn": "Per shipment",
+    "note": "Applied only when shipment is scheduled for pickup."
+  }
+}

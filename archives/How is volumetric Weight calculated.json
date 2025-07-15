@@ -1,0 +1,21 @@
+{
+  "category": "Shipping",
+  "company": "ShypBUDDY",
+  "use_case": "Calculating volumetric weight for shipments",
+  "formula": {
+    "name": "Volumetric Weight",
+    "description": "Volumetric weight is used to calculate the weight of a package based on its dimensions.",
+    "calculation": "Length (cm) × Breadth (cm) × Height (cm) ÷ 5000",
+    "unit": "Kilograms (kg)"
+  },
+  "notes": [
+    "Ensure all dimensions are measured in centimeters (cm).",
+    "Volumetric weight is compared with actual weight, and the higher of the two is used for shipping charges."
+  ],
+  "example": {
+    "length_cm": 40,
+    "breadth_cm": 30,
+    "height_cm": 20,
+    "calculated_volumetric_weight": "4.8 kg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "category": "Order Creation",
+  "company": "ShypBUDDY",
+  "use_case": "Creating a new order from the dashboard",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Navigate to Dashboard",
+      "description": "Log in to the ShypBUDDY Dashboard."
+    },
+    {
+      "step": 2,
+      "action": "Click on 'Create Order'",
+      "description": "From the Dashboard, click on the 'Create Order' button."
+    },
+    {
+      "step": 3,
+      "action": "Choose Order Type",
+      "description": "Select 'Single Order Creation' from the available options."
+    },
+    {
+      "step": 4,
+      "action": "Select Pickup/RTO Address",
+      "description": "Choose the pickup address and return-to-origin (RTO) address for the shipment."
+    },
+    {
+      "step": 5,
+      "action": "Enter Customer Details",
+      "description": "Input the recipient's name, phone number, and delivery address."
+    },
+    {
+      "step": 6,
+      "action": "Fill Package Details",
+      "description": "Provide package contents, weight, and dimensions (length, breadth, height)."
+    },
+    {
+      "step": 7,
+      "action": "Select Payment Mode",
+      "description": "Choose between Prepaid or Cash on Delivery (COD)."
+    },
+    {
+      "step": 8,
+      "action": "Select Courier Partner",
+      "description": "Choose the desired courier partner from the available list."
+    },
+    {
+      "step": 9,
+      "action": "Click on 'Ship'",
+      "description": "Click the 'Ship' button to finalize and process the order."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "category": "Value Added Services (VAS)",
+  "company": "ShypBUDDY",
+  "description": "ShypBUDDY offers a wide range of value added services to enhance the logistics and shipping experience for its customers.",
+  "services": [
+    {
+      "name": "BUDDYSHIELD",
+      "description": "An insurance service that provides protection against shipment loss, damage, or theft during transit."
+    },
+    {
+      "name": "BUDDYSURE",
+      "description": "A reliability assurance service that ensures secure and timely deliveries with added delivery success commitment."
+    },
+    {
+      "name": "BUDDYCONFIRM",
+      "description": "An order confirmation service that verifies recipient details before dispatch to minimize returns and delivery failures."
+    }
+  ]
+}

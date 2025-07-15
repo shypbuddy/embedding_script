@@ -1,0 +1,33 @@
+{
+  "intent": "company_information",
+  "entities": [
+    {
+      "entity": "company_name",
+      "value": "ShypBUDDY"
+    },
+    {
+      "entity": "market_position",
+      "value": "India's No.1 Trusted Ecommerce Logistics Partner"
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "service_coverage",
+      "value": "27000+ pincodes across India"
+    },
+    {
+      "fact_type": "platform_feature",
+      "value": "Single integrated platform for multiple couriers"
+    }
+  ],
+  "responses": [
+    {
+      "response_type": "short_description",
+      "text": "ShypBUDDY is India's leading ecommerce logistics platform providing shipping services to 27000+ pincodes through multiple courier partners."
+    },
+    {
+      "response_type": "detailed_description",
+      "text": "ShypBUDDY is India's No.1 trusted ecommerce logistics partner that enables businesses to ship to over 27000 pincodes nationwide. Our platform integrates multiple courier services into one simple interface, making logistics management effortless for online sellers."
+    }
+  ]
+}

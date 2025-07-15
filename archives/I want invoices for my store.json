@@ -1,0 +1,14 @@
+{
+  "category": "Billing & Invoices",
+  "company": "ShypBUDDY",
+  "issue": "Invoice Request",
+  "question": "I want invoices for my store",
+  "answer": "Invoices for COD Remittance and Billing are automatically shared to your registered email ID after every payout date.",
+  "details": {
+    "invoiceTypes": ["COD Remittance", "Billing"],
+    "deliveryMethod": "Email",
+    "schedule": "After every payout date",
+    "recipient": "Registered email ID linked with the store"
+  },
+  "recommendation": "Ensure your email ID is correctly updated in your ShypBUDDY account settings to receive invoices on time."
+}

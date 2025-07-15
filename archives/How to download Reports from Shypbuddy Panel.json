@@ -1,0 +1,34 @@
+{
+  "category": "Reports & Analytics",
+  "company": "ShypBUDDY",
+  "use_case": "Downloading Reports",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Access Reports Section",
+      "description": "Log in to the ShypBUDDY dashboard and click on the 'Reports' tab."
+    },
+    {
+      "step": 2,
+      "action": "Select Date Range",
+      "description": "Choose the desired date range for which you want to view or download the data."
+    },
+    {
+      "step": 3,
+      "action": "Customize Filters",
+      "description": "Optionally, refine your report by selecting specific payment modes and delivery types."
+    },
+    {
+      "step": 4,
+      "action": "Choose Report Details",
+      "description": "Select the specific report fields or details you wish to include from the available options."
+    },
+    {
+      "step": 5,
+      "action": "Generate Report",
+      "description": "Click on 'Generate Report' to create and download the customized report."
+    }
+  ],
+  "outcome": "You will receive a report containing all selected data for the specified filters and date range.",
+  "note": "Ensure your filters are accurate for precise report generation."
+}

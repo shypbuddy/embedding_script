@@ -1,0 +1,15 @@
+{
+  "category": "Order Management",
+  "company": "ShypBUDDY",
+  "feature": "Reverse Order Creation",
+  "question": "Can I create Reverse orders on ShypBUDDY Panel?",
+  "answer": "Yes, you can create Reverse Orders directly from the ShypBUDDY Panel.",
+  "steps": [
+    "Go to the Dashboard.",
+    "Navigate to the 'Delivered' tab.",
+    "Locate the shipment for which you want to initiate a reverse order.",
+    "Click on the 'Initiate Reverse Order' button."
+  ],
+  "outcome": "A reverse pickup will be scheduled from the customer's location, and the shipment will be returned to your warehouse.",
+  "note": "Ensure the customer's address and contact details are accurate to avoid reverse pickup failures."
+}

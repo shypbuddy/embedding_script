@@ -1,0 +1,21 @@
+{
+  "category": "Rate & Serviceability",
+  "company": "ShypBUDDY",
+  "use_case": "Check courier availability and shipping rates",
+  "question": "How to check pincode serviceability and Rates?",
+  "answer": "You can check the pincode serviceability in the Rate Calculator Tab on the ShypBUDDY panel. Simply enter the Pickup Pincode, Drop Pincode, Actual Weight, Dimensions of the shipment, Payment mode, and Invoice value. After clicking 'Calculate', you’ll see the available courier partners and shipping rates for the requested drop pincode.",
+  "steps": [
+    "Go to the Rate Calculator Tab on the dashboard.",
+    "Enter Pickup Pincode and Drop Pincode.",
+    "Input Actual Weight and Dimensions (Length, Breadth, Height).",
+    "Select Payment Mode (Prepaid/COD).",
+    "Enter Invoice Value of the shipment.",
+    "Click on 'Calculate' to view results."
+  ],
+  "output": {
+    "courier_partners": "List of available partners",
+    "rates": "Shipping rates per courier",
+    "estimated_delivery": "Delivery timeline per courier (if available)"
+  },
+  "note": "Ensure accurate dimensions and weight to receive correct rate estimates and courier availability."
+}

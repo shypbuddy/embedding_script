@@ -1,0 +1,14 @@
+{
+  "category": "Label Customization",
+  "company": "ShypBUDDY",
+  "feature": "Upload Logo on Label",
+  "question": "How to add LOGO to the label?",
+  "steps": [
+    "From the Dashboard, click on the 'Settings' tab.",
+    "Within the Settings section, locate the 'Logo Settings and Preferences' tab.",
+    "Under this tab, click on the option to 'Upload Logo'.",
+    "Select and upload your company's logo image from your device."
+  ],
+  "outcome": "Your company's logo will be added and printed on your shipping label.",
+  "note": "Ensure the uploaded logo is clear and in supported image formats (JPEG, PNG, etc.)."
+}

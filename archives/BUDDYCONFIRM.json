@@ -1,0 +1,25 @@
+{
+  "category": "Value Added Services",
+  "serviceName": "BUDDYCONFIRM",
+  "company": "ShypBUDDY",
+  "title": "BUDDYCONFIRM: Confirm Before You Ship, Deliver More!",
+  "question": "What is BUDDYCONFIRM?",
+  "answer": "BUDDYCONFIRM is a pre-shipment verification service offered by ShypBUDDY to reduce RTOs and ensure accurate delivery. Our team calls customers before dispatch to confirm their order and address details.",
+  "howItWorks": {
+    "preShipmentValidation": "ShypBUDDY’s calling team contacts buyers to confirm the order and validate the shipping address before dispatch.",
+    "realTimeUpdates": "If required, customer or address details are updated in real-time before shipment.",
+    "orderTagging": "Orders are tagged with statuses like 'Confirmed' or 'Not Confirmed' for complete visibility.",
+    "transparency": "All confirmation calls are recorded and accessible for review by the seller."
+  },
+  "benefits": [
+    "Drastically Reduce RTOs: Prevent address errors and unverified orders from turning into costly returns.",
+    "Boost Delivery Success: Ensure orders are shipped to valid, confirmed addresses.",
+    "Save Time & Money: Avoid failed deliveries and reduce customer service workload.",
+    "Peace of Mind: Gain confidence in each order you ship by verifying it first."
+  ],
+  "charges": {
+    "amount": "₹1.99",
+    "applicableOn": "Per order",
+    "note": "Automatically applied when a new order is created."
+  }
+}

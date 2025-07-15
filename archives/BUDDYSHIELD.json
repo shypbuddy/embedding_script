@@ -1,0 +1,23 @@
+{
+  "category": "Value Added Services",
+  "serviceName": "BUDDYSHIELD",
+  "company": "ShypBUDDY",
+  "title": "BUDDYSHIELD: Your Ultimate Delivery Protection",
+  "question": "What is BUDDYSHIELD?",
+  "answer": "BUDDYSHIELD is ShypBUDDY’s premium delivery protection service designed to reduce failed deliveries (NDRs) and Return to Origin (RTO) orders, ensuring your packages reach the customer successfully.",
+  "howItWorks": {
+    "proactiveProblemSolving": "In case of a failed delivery (NDR), the ShypBUDDY team contacts the customer immediately, gathers updated delivery instructions, and reschedules delivery.",
+    "financialSafetyNet": "If an RTO occurs due to the logistics partner's fault, ShypBUDDY refunds shipping costs up to ₹200 per shipment.",
+    "transparency": "If a customer refuses the package, the call recording is shared with the seller as evidence."
+  },
+  "benefits": [
+    "Boost Delivery Success: Improve your overall delivery success rate.",
+    "Save Time & Effort: ShypBUDDY handles all NDR follow-ups, saving you operational effort.",
+    "Protect Your Earnings: Minimize losses from RTOs and get compensation for shipping errors."
+  ],
+  "charges": {
+    "amount": "₹9",
+    "applicableOn": "Per shipment",
+    "note": "Only charged when the order is scheduled for pickup."
+  }
+}
